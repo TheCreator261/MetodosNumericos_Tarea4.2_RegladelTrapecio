@@ -1,0 +1,1 @@
+# MetodosNumericos_Tarea4.2_RegladelTrapecio
